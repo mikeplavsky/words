@@ -1,3 +1,9 @@
+Presumptuous
+Miscreant
+Towards
+Downward
+Forward
+Bouquet 
 Earlier
 Former
 Latter
