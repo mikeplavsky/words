@@ -4,6 +4,7 @@ Towards
 Downward
 Forward
 Bouquet 
+Foreseeable
 Earlier
 Former
 Latter
