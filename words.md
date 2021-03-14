@@ -1,3 +1,27 @@
+Genetically inherited
+Tonsils
+Nervous function
+Brazil
+Supplement
+Enchantment
+Totemism
+Incentive
+Balance
+Colleagues
+Knowledge
+Truthfully
+Mosquitoes
+Mosquito
+Unfortunately
+Inconvenience
+Business
+Employment
+Granite
+Copper
+Lounge
+Allowance
+acquire
+09-00-78-12-56-34-10
 Enamel
 Examiner
 Nursery
