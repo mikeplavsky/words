@@ -33,7 +33,7 @@ Leisure
 Questionnaire
 Arithmetic
 Crescent
-Counsil
+Council
 Compaign
 Pear
 Business
