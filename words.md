@@ -1,3 +1,10 @@
+Necessary
+Remuneration
+Demeanor
+Circumvent
+Straightforward
+Accommodate
+Perimeter
 Genetically inherited
 Tonsils
 Nervous function
