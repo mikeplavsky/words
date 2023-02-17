@@ -3,7 +3,6 @@ import os
 from random import randrange
 
 ws = open('words.md').readlines()
-w = None
 
 def speak_next_word(e=None):
 
