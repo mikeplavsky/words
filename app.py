@@ -3,15 +3,24 @@ import os
 from random import randrange
 
 ws = open('words.md').readlines()
+w = "Press Command+S"
+
+def speak():
+
+    global w
+    os.system(f"say {w}")
+
 
 def speak_next_word(e=None):
 
     global w
 
     w = ws[randrange(0,len(ws))]
-    os.system(f"say {w}")
+    speak()
 
     text.set("")
+    word.set("")
+    label.configure(highlightbackground=None)
 
 def is_right():
 
@@ -21,12 +30,15 @@ def is_right():
     return w1.lower() == w2.lower()
 
 def show_word(event):
+    
     word.set(w)
 
     if is_right():
         label.configure(highlightbackground="green")
     else: 
         label.configure(highlightbackground="red")
+
+    speak()
 
 root = tk.Tk()
 
