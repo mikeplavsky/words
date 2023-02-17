@@ -20,7 +20,6 @@ def speak_next_word(e=None):
 
     text.set("")
     word.set("")
-    label.configure(highlightbackground=None)
 
 def is_right():
 
