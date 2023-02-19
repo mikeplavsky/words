@@ -4,12 +4,12 @@ from random import randrange
 
 ws = open('words.md').readlines()
 w = "Press Command+S"
+count = 0
 
 def speak():
 
     global w
     os.system(f"say {w}")
-
 
 def speak_next_word(e=None):
 
@@ -29,6 +29,8 @@ def is_right():
     return w1.lower() == w2.lower()
 
 def show_word(event):
+
+    global count 
     
     word.set(w)
 
@@ -36,6 +38,8 @@ def show_word(event):
         label.configure(highlightbackground="green")
     else: 
         label.configure(highlightbackground="red")
+        count += 1
+        cnt_v.set(str(count))
 
     speak()
 
@@ -43,6 +47,7 @@ root = tk.Tk()
 
 text = tk.StringVar()
 word = tk.StringVar()
+cnt_v = tk.StringVar()
 
 root.geometry("350x120+0+0")
 root.geometry("350x120+{}+0".format(root.winfo_screenwidth() - 350))
@@ -58,6 +63,9 @@ entry.bind("<Command-s>", speak_next_word)
 
 label = tk.Entry(root, textvariable=word, font=("Arial", 25))
 label.pack()
+
+cnt = tk.Label(root, textvariable=cnt_v, font=("Arial", 25))
+cnt.pack()
 
 root.mainloop()
 

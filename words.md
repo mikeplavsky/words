@@ -1,3 +1,10 @@
+Sensitive
+Insensitive
+Insensitively
+Disease
+Heart
+Behavioural
+Circumstances
 Necessary
 Remuneration
 Demeanor
