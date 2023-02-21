@@ -1,3 +1,820 @@
+southern
+desert
+harsh
+severe
+conditions
+habitat
+surroundings
+holiday-makers
+tourists
+adventurers
+drawback
+playthings
+athletics
+competitive
+particular
+innate
+commonly
+hardship
+difficulty
+passenger
+tremendous
+expertise
+extraordinary
+Previously
+drastic acceleration
+prestigious
+analogues
+authenticity
+uniqueness
+continuously
+endeavor
+desperate
+unrivaled
+Trendsetter
+On the contrary
+exaggeration
+unprecedented
+envisioned
+departure
+breeze
+tenure
+undoubtedly
+endorse
+spare time
+leisure hours
+offspring
+incite
+elder relatives
+encompass
+journey
+voyage
+essential
+policy-makers
+households
+rubbish
+quantity
+insufficient
+highly
+rewarded financially
+career
+athletes
+celebrities
+preclude
+ancient
+authentic
+disadvantageous
+advantageous
+currently
+nowadays
+opinion
+belief
+judgement
+assumption
+supposition
+finances
+funds
+funding
+citizens
+numerous
+persuasive
+convincing
+sound argument
+certainly
+absolutely
+undeniably
+instance
+incident
+occurrence
+every aspect
+the circumstances, 
+all the facets
+all specifics 
+needed
+important 
+appear
+supposed
+announced
+claimed
+stated
+frequently
+repeatedly
+interrelated
+interconnected
+consistent
+interwoven
+distinct
+diverse
+obvious
+clear
+noticeable
+evident
+understandable
+explicable
+economic
+financial
+monetary
+fiscal 
+Persuaded
+Convinced
+individuals
+specialists 
+However
+Whereas
+Nonetheless
+exceptionally
+extremely
+particularly
+exceedingly
+Accordingly
+Consequently
+consequences
+effects
+In spite of
+Regardless of
+widespread
+prevalent
+predominant
+typical
+customar
+Therefore
+Correspondingly
+Resultantly 
+As an implication
+tendencies
+regularities 
+alterations
+investigators
+scientists
+surveys
+indications 
+significant
+noteworthy
+Contemplation
+deliberation
+distinguish
+abroad 
+foreign
+pollution
+recycling 
+rubbish 
+ecology
+school
+teachers
+universities
+students
+graduates
+study
+society
+population
+public
+people
+firstly
+secondly
+thirdly	
+for example
+in general
+first
+furthermore
+finally
+for instance
+generally
+to begin
+to conclude
+as follows
+on the whole
+next
+that is
+as a rule
+Reinforcement
+in this case
+for the most part
+also
+namely
+in most cases
+furthermore
+in other words
+usually
+moreover
+consequence
+Highlighting
+what is more
+so
+in particular
+in addition
+therefore
+particularly
+besides
+as a result
+as a consequence
+especially
+above all
+accordingly
+mainly
+as well
+consequently
+Reformulation
+in the same way
+because of this
+vecause of that
+in other words
+not only this but also that
+thus
+rather
+Similarity
+hence
+to put it more simply
+equally	for this/that reason
+Expressing 
+alternative
+likewise
+so that
+alternatively
+similarly
+in that case
+rather
+correspondingly
+under these circumstances
+on the other hand
+in the same way
+Deduction
+the alternative is
+Transition to new point
+then
+another possibility would be
+now
+in other words
+Contrast
+as far as x is concerned
+in that case
+instead
+with regard to
+with reference to
+otherwise
+conversely
+as for
+this implies that
+on the contrary
+it follows that
+if so/not
+in contrast
+turning to
+in comparison
+Summary	
+obviously
+Concession
+in conclusion
+clearly
+even though
+to conclude
+naturally
+in brief
+of course
+to summarise
+as can be expected
+nevertheless
+overall
+surely
+still
+therefore
+after all
+yet
+Best Regards
+Best Wishes
+Dear Mr Green
+Yours sincerely
+Dear Sir or Madam
+Yours Faithfully
+achieve
+administration
+affect
+analysis
+approach
+appropriate
+area
+aspects
+assistance
+assume
+authority
+available
+benefit
+category
+community
+complex
+concerning
+conclusion
+conduct 
+consequence
+consistent
+constitutional
+consumer
+context
+create
+culture
+data
+definition
+destructive
+discovery
+distinction
+economic
+element
+environment
+error
+equation
+establish
+estimate
+evaluation
+evidence
+factors
+feature
+final
+financial
+focus
+function
+global
+identify
+impact
+income
+indicate
+individual
+injury
+investment
+involve
+issue
+item
+legal
+maintenance
+major
+media
+method
+modern
+normal
+obtain
+restrict
+occur
+participation
+percent
+period
+policy
+positive
+potential
+previous
+primary
+process
+purchase
+range
+recent
+region
+regulations
+relevant
+require
+research
+resident
+resources
+response
+sector
+security
+significant
+similar
+solution
+source
+specific
+strategy
+structure
+theory
+threat
+traditional
+transport
+access
+activity
+alter
+alternative
+amendment
+annual
+apparent
+application
+approximate
+artificial
+attitude
+aware
+capacity
+challenge 
+circumstance
+comment
+communication
+concentration
+conflict
+considerable
+constant
+contact
+contribution
+core
+correspond
+criteria
+cycle
+debate
+decline
+deduction
+demonstrate
+despite
+dimension
+domestic
+dominant
+emerge
+emphasis
+enable
+energy
+enforcement
+ensure
+equivalent
+evolution
+exclude
+exposure
+external
+facilitate
+fundamental
+funds
+generation
+hence
+hypothesis
+illustrate
+image
+immigration
+implement
+initial
+integration
+layer
+legislation
+location
+logic
+marginal
+maximum
+mechanism
+medical
+mental
+modification
+negative
+network
+occupation
+option
+orientation
+outcome
+overall
+parallel
+perspective
+philosophy
+precise
+predict
+project
+promote
+proportion
+psychology
+reaction
+remove
+resolution
+specify
+stability
+subsequent
+sufficient
+summary
+supply
+task
+technique
+technology
+transition
+trend
+version
+volume
+abstract
+accurate
+acknowledge
+adaptation
+adequate
+adjust
+adult
+advocate
+aid
+attribute
+author
+brief
+capable
+civil
+classical
+comprehensive 
+contrary
+coordination
+couple
+decades
+definite
+deny
+discrimination
+disposal
+diversity
+domain
+dynamic
+eliminate
+equipment
+estate
+exceed
+expansion
+expert
+fees
+flexibility
+foundation
+gender
+global
+grade
+guarantee
+identical
+ignorance
+imply
+incentive
+incorporated
+index
+infrastructure
+inhibition
+innovation
+instance
+instruction
+intelligence
+interact
+interval
+investigation
+isolated
+justification
+lecture
+liberal
+migration
+minimum
+monitoring
+motivation
+neutral
+obvious
+overseas
+parameter
+phenomenon
+prohibit
+publish
+pursue
+rational
+recovery
+reject
+release
+reveal
+role
+satisfy
+scope
+sequence
+simulation
+solely
+somewhat
+status
+stress
+style
+substitution
+successive
+survey
+survive
+sustainable
+symbolic
+topic
+trace
+transformation
+ultimate
+underline
+unique
+utility
+visible
+accommodation
+accompany
+advance
+analogous
+anticipate
+appendix
+appreciate
+arbitrary
+assure
+automatically
+behalf
+bias
+cease
+chart
+clarity
+coherence
+coincide
+commodity
+confirm
+contemporary
+contradict
+controversy
+conversely
+cooperate
+crucial
+currency
+denote
+detect
+deviation
+device
+devote
+differentiation
+diminish
+displacement
+display
+distorted
+dramatic
+duration
+ethical
+eventually
+exhibit
+explicit
+exploitation
+extract
+federal
+fluctuations
+format
+founded
+guidelines
+highlighted
+implicit
+incompatible
+induce
+inevitably
+inherent
+intensity
+intermediate
+internal
+manual
+mature
+medium
+military
+mutual
+norms
+notion
+nuclear
+objective
+paragraph
+passive
+perceive
+portion
+precede
+predominantly
+priority
+prospect
+qualitative
+radical
+random
+reinforce
+relax
+revision
+revolution
+scenario
+schedule
+sphere
+suspended
+target
+team
+temporary
+tension
+theme
+thereby
+uniform
+validity
+vehicle
+via
+violation
+virtual
+vision
+widespread
+abandon
+abate
+abrupt
+accumulation
+acquisition
+adjacent
+aggregate
+albeit
+ambiguous
+ancestor
+assembly
+assessment
+assign
+attain
+avert
+coal
+collapse
+colleagues
+combat
+commit
+compile
+complement
+comprise
+conceive
+concurrent
+confined
+conform
+confuse
+consciousness
+convinced
+creditable
+deceive
+depression
+derive
+distribution
+divergent
+doubt
+drastic
+election
+empirical
+Tolerance
+Encounter
+Enhance
+Enormous
+Entirely
+Entrepreneur
+Erosion
+Forbearance
+Forthcoming
+Frustration
+Goal
+Homogenous
+Inclination
+Indulge
+Infer
+Initiative
+Insight
+Inspection
+Integral
+Intervention
+Intrinsic
+Invoke
+Justify
+Likewise
+Link
+Manage
+Manipulation
+Merge
+Nonetheless
+Notwithstanding
+Odd
+Ongoing
+Overlap
+Persistent
+Pose
+Possess
+Preliminary
+Presumption
+Ratio
+Refine
+Relate
+Reluctant
+Restore
+Restraint
+Rigid
+Route
+Sacrifice
+Scale
+So-called
+Straightforward
+Subordinate
+Substantiate
+Supplementary
+Sympathy
+Termination
+Transmission
+Undergo
+Unify
+Vital
+Voluntary
+Whereby
+Outweigh
+Enduring
+Conscience
+Advantegeous
+Therefore
+Short-term relief
+Experiment
+Experitse
+Sustainable growth
+Worsen
+Aggravate
+Exacerbate
+Thus
+Furthermore
+Moreover
+Comprehensive
+Inequaltiy
+Multi-faceted issue
+Poverty
+Belief
+State of affairs
+Persuasive
+Despite
+Syringe
+Figurative
+Diligently
+Secluded
+Demeanour
+Imprint
 Sensitive
 Insensitive
 Insensitively
@@ -94,7 +911,7 @@ Posture
 Neighbour
 Scientist
 Engineer
-Metres
+Meters
 Familiarization
 Unhealthier
 Quit
@@ -122,6 +939,7 @@ Invertebrate
 Vertebrate
 Vertebra
 Cavity
+memorizing
 Camouflage 
 Plateau 
 Proclivity 
@@ -159,7 +977,6 @@ Gorgeous
 Grandiose 
 Occur 
 Malicious 
-Conscience 
 Science 
 Consciousness
 Religion 
