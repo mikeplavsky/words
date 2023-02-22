@@ -36,18 +36,24 @@ def show_word(event):
 
     if is_right():
         label.configure(highlightbackground="green")
+        ws.remove(w)
     else: 
+
         label.configure(highlightbackground="red")
+        cnt.configure(fg="red")
+
         count += 1
         cnt_v.set(str(count))
 
     speak()
+    total_v.set(len(ws))
 
 root = tk.Tk()
 
 text = tk.StringVar()
 word = tk.StringVar()
 cnt_v = tk.StringVar()
+total_v = tk.StringVar()
 
 root.geometry("350x120+0+0")
 root.geometry("350x120+{}+0".format(root.winfo_screenwidth() - 350))
@@ -64,8 +70,13 @@ entry.bind("<Command-s>", speak_next_word)
 label = tk.Entry(root, textvariable=word, font=("Arial", 25))
 label.pack()
 
+total = tk.Label(root, textvariable=total_v, font=("Arial", 25))
+total.pack(side="right")
+
 cnt = tk.Label(root, textvariable=cnt_v, font=("Arial", 25))
-cnt.pack()
+cnt.pack(side="right")
+
+total_v.set(len(ws))
 
 root.mainloop()
 

@@ -1,3 +1,6 @@
+Science fiction
+fiction
+Withdraw
 southern
 desert
 harsh
@@ -87,7 +90,7 @@ instance
 incident
 occurrence
 every aspect
-the circumstances, 
+the circumstances 
 all the facets
 all specifics 
 needed
@@ -136,7 +139,7 @@ widespread
 prevalent
 predominant
 typical
-customar
+customer
 Therefore
 Correspondingly
 Resultantly 
@@ -793,7 +796,7 @@ Advantegeous
 Therefore
 Short-term relief
 Experiment
-Experitse
+Expertise
 Sustainable growth
 Worsen
 Aggravate
