@@ -1,3 +1,13 @@
+A representative
+Customer numbers
+40l Liters
+The continent
+Indian Pacific
+Kilometres
+Rebellion
+Mutiny
+Terrain
+Scenery
 Science fiction
 fiction
 Withdraw
@@ -219,7 +229,7 @@ consequently
 Reformulation
 in the same way
 because of this
-vecause of that
+because of that
 in other words
 not only this but also that
 thus
@@ -868,7 +878,7 @@ Questionnaire
 Arithmetic
 Crescent
 Council
-Compaign
+Campaign
 Pear
 Business
 Caribbean

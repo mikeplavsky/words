@@ -35,8 +35,13 @@ def show_word(event):
     word.set(w)
 
     if is_right():
+
         label.configure(highlightbackground="green")
-        ws.remove(w)
+        try:
+            ws.remove(w)
+        except ValueError as e: 
+            print(e)
+
     else: 
 
         label.configure(highlightbackground="red")
