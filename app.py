@@ -32,7 +32,7 @@ def show_word(event):
 
     global count 
     
-    word.set(w)
+    word.set(w.capitalize())
 
     if is_right():
 
@@ -50,7 +50,6 @@ def show_word(event):
         count += 1
         cnt_v.set(str(count))
 
-    speak()
     total_v.set(len(ws))
 
 root = tk.Tk()
