@@ -4,7 +4,9 @@ from random import randrange
 
 ws = open('words.md').readlines()
 w = "Press Command+S"
+
 count = 0
+right = 0
 
 def speak():
 
@@ -30,13 +32,17 @@ def is_right():
 
 def show_word(event):
 
-    global count 
+    global count, right 
     
     word.set(w.capitalize())
 
     if is_right():
 
+        right += 1
+        total_v.set(right)
+
         label.configure(highlightbackground="green")
+
         try:
             ws.remove(w)
         except ValueError as e: 
@@ -50,7 +56,6 @@ def show_word(event):
         count += 1
         cnt_v.set(str(count))
 
-    total_v.set(len(ws))
 
 root = tk.Tk()
 
@@ -80,7 +85,7 @@ total.pack(side="right")
 cnt = tk.Label(root, textvariable=cnt_v, font=("Arial", 25))
 cnt.pack(side="right")
 
-total_v.set(len(ws))
+total_v.set(right)
 
 root.mainloop()
 

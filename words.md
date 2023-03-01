@@ -1,6 +1,103 @@
-A representative
-Customer numbers
-40l Liters
+Remostrate
+Bollocks
+Bummer
+Proof-reading
+souvenirs
+wounderful
+fountains
+pudding
+Harassment
+Scrutiny
+Double-edged sword
+Admiration
+Glamorous
+Appeal
+Allure
+Ordinary
+Authorization
+Pertaining
+Anonymity
+Anonymous
+Contemporary
+Criticizing
+Immediately
+Daily
+Fairytale
+Appealing
+Famous
+customary
+increasingly
+progressively
+patterns
+variation
+shift
+alteration
+lastly
+discovered
+established
+revealed
+proven
+investigator
+indication 
+researcher
+Regard
+Admire
+respect
+variant 
+noteworthy
+Disagree
+opposing
+mean
+state
+believe
+suppose
+presume
+contend
+claim
+The viewpoint
+essential
+critical
+highlight
+pick out
+separate
+select 
+decades
+mass media
+widely
+extensively
+broadly
+press
+debated
+discussed
+disputed
+referred to
+subject
+problem
+issue
+Incentivize
+Privation
+Stubby tail
+Herbivores
+Gastritus
+confidence
+Remorse
+Scold
+Rebuke
+Racial hatred
+While I appreciate, I believe
+Lavish
+extravagant
+sentiment
+Luxurious
+On the one hand 
+Newlyweds
+Insistent
+Finances
+Ledge
+League
+Pastime
+influences
+Representative
 The continent
 Indian Pacific
 Kilometres
@@ -62,7 +159,6 @@ elder relatives
 encompass
 journey
 voyage
-essential
 policy-makers
 households
 rubbish
@@ -85,7 +181,6 @@ belief
 judgement
 assumption
 supposition
-finances
 funds
 funding
 citizens
@@ -158,7 +253,6 @@ tendencies
 regularities 
 alterations
 investigators
-scientists
 surveys
 indications 
 significant
@@ -237,7 +331,7 @@ rather
 Similarity
 hence
 to put it more simply
-equally	for this/that reason
+Equally
 Expressing 
 alternative
 likewise
@@ -248,11 +342,10 @@ in that case
 rather
 correspondingly
 under these circumstances
-on the other hand
+On the other hand
 in the same way
 Deduction
 the alternative is
-Transition to new point
 then
 another possibility would be
 now
@@ -353,7 +446,6 @@ individual
 injury
 investment
 involve
-issue
 item
 legal
 maintenance
@@ -387,7 +479,6 @@ resources
 response
 sector
 security
-significant
 similar
 solution
 source
@@ -815,7 +906,7 @@ Thus
 Furthermore
 Moreover
 Comprehensive
-Inequaltiy
+Inequality
 Multi-faceted issue
 Poverty
 Belief
