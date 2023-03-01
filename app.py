@@ -51,10 +51,11 @@ def show_word(event):
     else: 
 
         label.configure(highlightbackground="red")
-        cnt.configure(fg="red")
 
         count += 1
         cnt_v.set(str(count))
+
+    percent.config(text=f"{right/(count + right) * 100:.0f}%")
 
 
 root = tk.Tk()
@@ -79,13 +80,17 @@ entry.bind("<Command-s>", speak_next_word)
 label = tk.Entry(root, textvariable=word, font=("Arial", 25))
 label.pack()
 
-total = tk.Label(root, textvariable=total_v, font=("Arial", 25))
+percent = tk.Label(root, text="0%", fg="green", font=("Arial", 25))
+percent.pack(side="right")
+
+total = tk.Label(root, textvariable=total_v, fg="green", font=("Arial", 25))
 total.pack(side="right")
 
-cnt = tk.Label(root, textvariable=cnt_v, font=("Arial", 25))
+cnt = tk.Label(root, textvariable=cnt_v, fg="red", font=("Arial", 25))
 cnt.pack(side="right")
 
 total_v.set(right)
+cnt_v.set(count)
 
 root.mainloop()
 
