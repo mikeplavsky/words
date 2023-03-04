@@ -1,7 +1,26 @@
+Aspire
+Conscious
+Seize
+Hearsay
+A gap year
+Heath
+Parsley
+Periodontics
+Orthodontics
+Curiosity
+Economical
+Anonymous
+Beaver
+Squirrel
+Chipmunk
+Turtle
+Tortoise
+Porcupine
+Woodpecker
 Remostrate
 Bollocks
 Bummer
-Proof-reading
+Proofreading
 souvenirs
 wounderful
 fountains
@@ -17,7 +36,6 @@ Ordinary
 Authorization
 Pertaining
 Anonymity
-Anonymous
 Contemporary
 Criticizing
 Immediately
@@ -100,7 +118,7 @@ influences
 Representative
 The continent
 Indian Pacific
-Kilometres
+Kilometers
 Rebellion
 Mutiny
 Terrain
@@ -638,7 +656,6 @@ index
 infrastructure
 inhibition
 innovation
-instance
 instruction
 intelligence
 interact
@@ -857,7 +874,6 @@ Link
 Manage
 Manipulation
 Merge
-Nonetheless
 Notwithstanding
 Odd
 Ongoing
@@ -907,7 +923,7 @@ Furthermore
 Moreover
 Comprehensive
 Inequality
-Multi-faceted issue
+Multifaceted issue
 Poverty
 Belief
 State of affairs
