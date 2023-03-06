@@ -1,3 +1,42 @@
+Jogging
+Weighlifting
+Tournaments
+Hiking Trails
+Community Centers
+Diving
+Gymnastics
+Fraction
+Perspective
+Heart attack
+Stroke
+Obesity
+Worthy to persue
+Patriotism
+Undeniable
+Inclusivity
+Nutrition
+Foster innovations
+Injury
+Equipment
+Medals and trophies
+Competition
+Solely
+Preference
+Population
+Top-tier
+Volleyball
+The state
+Talented
+Accessible
+Taxpayer
+Expensive
+Government
+Workout
+Exercise
+Schemes
+Preservation
+Conservation
+Lions
 Aspire
 Conscious
 Seize
@@ -150,13 +189,13 @@ tremendous
 expertise
 extraordinary
 Previously
-drastic acceleration
-prestigious
-analogues
-authenticity
-uniqueness
-continuously
-endeavor
+Drastic acceleration
+Prestigious
+Analogues
+Authenticity
+Uniqueness
+Continuously
+Endeavor
 desperate
 unrivaled
 Trendsetter
@@ -291,7 +330,6 @@ students
 graduates
 study
 society
-population
 public
 people
 firstly
@@ -461,7 +499,6 @@ impact
 income
 indicate
 individual
-injury
 investment
 involve
 item
@@ -583,7 +620,6 @@ orientation
 outcome
 overall
 parallel
-perspective
 philosophy
 precise
 predict
@@ -635,7 +671,6 @@ diversity
 domain
 dynamic
 eliminate
-equipment
 estate
 exceed
 expansion
@@ -687,7 +722,6 @@ satisfy
 scope
 sequence
 simulation
-solely
 somewhat
 status
 stress
