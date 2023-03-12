@@ -74,7 +74,7 @@ entry.focus()
 
 entry.bind("<Return>", show_word)
 
-entry.bind("<Command-d>", lambda e: os.system(f"open dict://{w}"))
+entry.bind("<Command-d>", lambda e: os.system(f"open dict://'{w}'"))
 entry.bind("<Command-s>", speak_next_word)
 
 label = tk.Entry(root, textvariable=word, font=("Arial", 25))

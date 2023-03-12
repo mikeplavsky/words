@@ -1,3 +1,10 @@
+Extinction
+Endangered species
+Breeding programs
+Enthusiast
+Poaching
+Reserve
+Wildlife
 Raise offspring
 Facilities
 Emphasize
@@ -172,12 +179,12 @@ Established
 Revealed
 Proven
 Investigator
-Indication 
+Indication
 Researcher
 Regard
 Admire
 Respect
-Variant 
+Variant
 Noteworthy
 Disagree
 Opposing
@@ -194,7 +201,7 @@ Critical
 Highlight
 Pick out
 Separate
-Select 
+Select
 Decades
 Mass media
 Widely
@@ -223,7 +230,7 @@ Lavish
 Extravagant
 Sentiment
 Luxurious
-On the one hand 
+On the one hand
 Newlyweds
 Insistent
 Finances
@@ -329,11 +336,11 @@ Instance
 Incident
 Occurrence
 Every aspect
-The circumstances 
+The circumstances
 All the facets
-All specifics 
+All specifics
 Needed
-Important 
+Important
 Appear
 Supposed
 Announced
@@ -356,11 +363,11 @@ Explicable
 Economic
 Financial
 Monetary
-Fiscal 
+Fiscal
 Persuaded
 Convinced
 Individuals
-Specialists 
+Specialists
 However
 Whereas
 Nonetheless
@@ -381,24 +388,24 @@ Typical
 Customer
 Therefore
 Correspondingly
-Resultantly 
+Resultantly
 As an implication
 Tendencies
-Regularities 
+Regularities
 Alterations
 Investigators
 Surveys
-Indications 
+Indications
 Significant
 Noteworthy
 Contemplation
 Deliberation
 Distinguish
-Abroad 
+Abroad
 Foreign
 Pollution
-Recycling 
-Rubbish 
+Recycling
+Rubbish
 Ecology
 School
 Teachers
@@ -463,7 +470,7 @@ Similarity
 Hence
 To put it more simply
 Equally
-Expressing 
+Expressing
 Alternative
 Likewise
 So that
@@ -488,7 +495,6 @@ Instead
 With regard to
 With reference to
 Otherwise
-Conversely
 As for
 This implies that
 On the contrary
@@ -540,7 +546,7 @@ Community
 Complex
 Concerning
 Conclusion
-Conduct 
+Conduct
 Consequence
 Consistent
 Constitutional
@@ -632,7 +638,7 @@ Artificial
 Attitude
 Aware
 Capacity
-Challenge 
+Challenge
 Circumstance
 Comment
 Communication
@@ -732,7 +738,7 @@ Brief
 Capable
 Civil
 Classical
-Comprehensive 
+Comprehensive
 Contrary
 Coordination
 Couple
@@ -1115,7 +1121,7 @@ Miscreant
 Towards
 Downward
 Forward
-Bouquet 
+Bouquet
 Foreseeable
 Earlier
 Former
@@ -1144,11 +1150,11 @@ Unhealthier
 Quit
 Quite
 Quiet
-Vocabulary 
+Vocabulary
 Apologize
-Managerial 
-Genius  
-Presumptuous 
+Managerial
+Genius
+Presumptuous
 Presumption
 Endearing
 Peculiarity
@@ -1161,54 +1167,54 @@ Coherence
 Plummet
 Soar
 Steadily
-Tentacle  
-Invertebrate 
+Tentacle
+Invertebrate
 Vertebrate
 Vertebra
 Cavity
 Memorizing
-Camouflage 
-Plateau 
-Proclivity 
-Inauguration 
-Nourish 
+Camouflage
+Plateau
+Proclivity
+Inauguration
+Nourish
 Carefully
-Recently 
+Recently
 Inconvenience
-Unfortunately 
-Weather 
-Wednesday 
-Thursday 
-Saturday 
-Beautiful 
+Unfortunately
+Weather
+Wednesday
+Thursday
+Saturday
+Beautiful
 Whirlpool
 Emperor
 Migraine
-Overcast  
+Overcast
 Ridiculous
-Awkward 
-Causality 
-Relentless 
+Awkward
+Causality
+Relentless
 Consonant
 Emphasise
-Cumbersome 
-Cucumber 
-Watermelon 
-Melon 
-Occurrence 
-Affidavit 
-Forfeit 
+Cumbersome
+Cucumber
+Watermelon
+Melon
+Occurrence
+Affidavit
+Forfeit
 Legislation
-Counterfeit 
-Gorgeous 
-Grandiose 
-Occur 
-Malicious 
-Science 
+Counterfeit
+Gorgeous
+Grandiose
+Occur
+Malicious
+Science
 Consciousness
-Religion 
-Religious   
-Diary 
-Dairy 
-Consul 
-Consulate 
+Religion
+Religious
+Diary
+Dairy
+Consul
+Consulate
