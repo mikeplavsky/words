@@ -1,3 +1,5 @@
+Raise offspring
+Facilities
 Emphasize
 Negatives
 Foster
@@ -271,35 +273,35 @@ Authenticity
 Uniqueness
 Continuously
 Endeavor
-desperate
-unrivaled
+Desperate
+Unrivaled
 Trendsetter
 On the contrary
-exaggeration
-unprecedented
-envisioned
-departure
-breeze
-tenure
-undoubtedly
-endorse
-spare time
-leisure hours
-offspring
-incite
-elder relatives
-encompass
-journey
-voyage
-policy-makers
-households
-rubbish
-quantity
-insufficient
-highly
-rewarded financially
-career
-athletes
+Exaggeration
+Unprecedented
+Envisioned
+Departure
+Breeze
+Tenure
+Undoubtedly
+Endorse
+Spare time
+Leisure hours
+Offspring
+Incite
+Elder relatives
+Encompass
+Journey
+Voyage
+Policy-makers
+Households
+Rubbish
+Quantity
+Insufficient
+Highly
+Rewarded financially
+Career
+Athletes
 celebrities
 preclude
 ancient
