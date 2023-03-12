@@ -1,5 +1,80 @@
+Emphasize
+Negatives
+Foster
+It is notable
+Competitive spirit
+Furthermore
+On the other hand, furthermore, finally
+Wholesomeness
+Controversial
+Vocation
+Shoddy
+Pre-apprenticeship training certificate
+Earnings
+Master's degree
+Bachelor's degree
+College
+Vocational training
+Nursing
+Carpentry
+Workmanship
+Alleviate
+Workforce
+I strongly believe
+In today's society
+Prerequisite
+Coral reefs
+Curriculum
+Obligatory
+Compulsory
+Sports Center
+Standard
+Coffee
+Arrivals hall
+Delicious
+Biscuit
+I am sure you will appreciate that
+Commotion
+Canteen
+I am writing regarding
+Curtains
+Sound-absorbing
+Dissatisfaction
+Annoyance
+Unsatisfactory
+Comlain
+Complaint
+Restaurant
+65 million years ago
+Thunderstones
+Comets
+Thesis
+Barbecue
+Non-parking
+Educational establishments
+Schooling
+Tuition fees
+Phenomena
+Diverse
+Also I agree, I think that
+Relaxation
+Entertainment
+Museum
+Exhort
+Myriads
+Heritage
+Hobby
+Physiotherapist
+Chiropractor
+Osteopath
+Intestines
+Genuine
+Clinic
+Sugar
+Secondly
+Firstly
 Jogging
-Weighlifting
+Weightlifting
 Tournaments
 Hiking Trails
 Community Centers
@@ -338,7 +413,6 @@ thirdly
 for example
 in general
 first
-furthermore
 finally
 for instance
 generally
@@ -355,7 +429,6 @@ for the most part
 also
 namely
 in most cases
-furthermore
 in other words
 usually
 moreover
@@ -414,28 +487,28 @@ with regard to
 with reference to
 otherwise
 conversely
-as for
-this implies that
-on the contrary
-it follows that
-if so/not
-in contrast
-turning to
-in comparison
+As for
+This implies that
+On the contrary
+It follows that
+If so/not
+In contrast
+Turning to
+In comparison
 Summary	
-obviously
+Obviously
 Concession
-in conclusion
-clearly
-even though
-to conclude
-naturally
-in brief
-of course
-to summarise
-as can be expected
-nevertheless
-overall
+In conclusion
+Clearly
+Even though
+To conclude
+Naturally
+In brief
+Of course
+To summarise
+As can be expected
+Nevertheless
+Overall
 surely
 still
 therefore
@@ -618,7 +691,6 @@ occupation
 option
 orientation
 outcome
-overall
 parallel
 philosophy
 precise
@@ -974,7 +1046,7 @@ Insensitive
 Insensitively
 Disease
 Heart
-Behavioural
+Behavioral
 Circumstances
 Necessary
 Remuneration
