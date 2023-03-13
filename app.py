@@ -65,11 +65,14 @@ word = tk.StringVar()
 cnt_v = tk.StringVar()
 total_v = tk.StringVar()
 
-root.geometry("350x120+0+0")
-root.geometry("350x120+{}+0".format(root.winfo_screenwidth() - 350))
+width=500
+height = 120
+
+root.geometry(f"{width}x{height}+0+0")
+root.geometry("{}x{}+{}+0".format(width, height, root.winfo_screenwidth() - width))
 
 entry = tk.Entry(root, textvariable=text, font=("Arial", 25))
-entry.pack()
+entry.pack(fill='x')
 entry.focus()
 
 entry.bind("<Return>", show_word)
@@ -78,7 +81,7 @@ entry.bind("<Command-d>", lambda e: os.system(f"open dict://'{w}'"))
 entry.bind("<Command-s>", speak_next_word)
 
 label = tk.Entry(root, textvariable=word, font=("Arial", 25))
-label.pack()
+label.pack(fill='x')
 
 percent = tk.Label(root, text="0%", fg="green", font=("Arial", 25))
 percent.pack(side="right")
