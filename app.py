@@ -2,7 +2,10 @@ import tkinter as tk
 import os
 from random import randrange
 
-ws = open('words.md').readlines()
+from sys import argv
+fn = argv[1]
+
+ws = open(fn).readlines()
 w = "Press Command+S"
 
 count = 0
@@ -65,7 +68,7 @@ word = tk.StringVar()
 cnt_v = tk.StringVar()
 total_v = tk.StringVar()
 
-width=500
+width= 1200
 height = 120
 
 root.geometry(f"{width}x{height}+0+0")

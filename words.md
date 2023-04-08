@@ -1,10 +1,561 @@
+International cooperation
+Moral obligations 
+Ex-empire countries 
+Emergencies 
+Floods 
+Foreign aid
+Wealthier nations
+Former imperial state 
+Economic calculations
+Recipient country’s administrative system
+Inefficiency and corruption
+Local charities 
+Famine and civil war
+Sufferers 
+The quota system
+General argumentative terms 
+A good command 
+Goes to the heart of
+With all the dangers of
+Beneficiary 
+Pundit
+Jepardize
+Exemptions
+Nation’s cultural life 
+Desirable number 
+Counterproductive
+An admission charge 
+Modest entry charge
+Wealthy tourists
+To conserve the exhibits
+Abolishing
+State subsidies 
+Showcasing national heritage
+Equal and advanced society 
+Affordable entry fees
+Pumpkin
+The Trinity Bridge
+The Palace Bridge
+Hare Island
+Political acumen
+Catherine the Great
+Archeological artifacts
+The Hermitage Museum
+Empress Elizabeth
+A gilded angel
+The Peter and Paul Cathedral
+The general public 
+Fundamental breach of civil liberties 
+Primarily 
+Culprits 
+CCTV
+Something incriminating 
+Convictions
+Trawling 
+Personal freedoms 
+The evident lack of effectiveness 
+Leads from concerned citizens 
+To detain the culprits 
+Potential trouble-makers 
+Informants
+Leads from concerned citizens
+Commentators
+Accidents 
+Anti-social behaviour 
+Hand-held devices 
+Electrical readers 
+Increasing accordingly
+Pavements 
+Bump into other people
+Fall over uneven surfaces 
+Fatal results 
+By diverting all their attention
+The exclusion of others around them
+Basic courtesy
+Politeness 
+Dedicated classes in schools and colleges 
+Impending trouble 
+Motor vehicles 
+The language throughout is advanced
+Potentially fatal
+Joint initiative
+Primitive inscriptions
+Hieroglyph
+Hieroglyphics
+Distinguishing different sounds
+Educators
+Rigorous approach to literacy 
+Clearly composed
+Examinations
+Occasions
+Unscrupulous 
+The damage to ecosystems
+Final extinction
+Landscape
+Further erosion of country's natural heritage
+Precious form of life
+Damage to the food chain and to the ecosphere
+Ecosphere
+Global collectors
+Animal materials
+Siberian tigers
+Ivory, furs and hide
+Dandelion
+Flour
+Illegal hunting of wild animals
+Business advertisers
+Sophisticated solution
+Jepardizing safety
+Windshield wiper
+Headlamps
+Competitive pressures
+Illuminated advertising
+Announcements
+Voluntary reduction
+Insulation
+Genuine gesture
+Appreciation or gratitude
+More affordable 
+Somewhat blurred 
+Greater understanding 
+Practical benefit 
+The enormous sums involved 
+Redundancies or compensation
+A time of austerity 
+More practical programmes
+An academic pursuit 
+Fascinating though it is
+Extremely high cost
+Practical benefits
+More radically
+Mankind’s most pressing issues
+Universities or research institutes
+Oppression
+Foredoomed to failure
+Academic pursuit
+Radical changes
+Rapidly evolving
+More relevant and decisive
+Neglect
+Tertiary skill
+The civil administration and public services
+Finance or consumer goods companies
+Time-consuming
+For example, in the medical field
+Over recent years
+In most professions
+Admittedly
+A worldwide following
+Hindering one's career
+Persuasive
+Persuasiveness
+Vocational certificates
+Rather excessive
+Incineration
+Reinforced by incentives
+University sports center
+European economic area
+Better-looking appearances
+Pursuit
+Desire
+Household waste
+Paper pulping
+Ecologically sound manner
+Disposing of refuse
+Long-term ground contamination
+Waste disposal by incineration
+Foodstuff
+Heaps of refuse
+Capacious
+Rearing environment
+Peephole
+Pickproof locking device
+A good command of advanced material
+Individual under-achievement
+A sense of instability and anxiety
+The personal grievance
+A sense of boredom or frustration
+Society as a whole
+Vandalism
+The absorbtion of information
+Academic progress
+The medium of music
+Beethoven
+Childhood prodigies
+Basic literacy
+Invaluable
+Worst-case scenario
+Humanity
+Biodiverse region
+Flora and fauna of many ecosystems
+Self-esteem
+Leading to
+The environment will continue to deteriorate
+Opportunities for de-stressing
+This would lesson the anxiety
+Eroding the security of the family unit
+Damaging the natural bonds
+Become accustomed 
+A further serious impact is
+The disruption to family relationships
+The victim's overall wellbeing
+Physical exhaustion and mental anxiety
+The ability to relax is severely curtailed 
+Species
+Birds of prey
+Authentic experiences
+Immersing oneself in the culture
+Open-minded and appreciative of the diversity
+It fosters understanding and tolerance
+Environmental footprint
+Eco-friendly accommodations
+Natural resource deplition
+Nuclear family
+Transport hubs
+Natural habitat
+Deforestation
+Competitiveness
+Mythology
+Renewable energy
+Higher education
+Role model
+Upbringing
+Equality
+Professions
+Workplace
+Less-discussed
+Unworkable
+Surely
+Enforced retrospectively
+The reduction of inequality
+A final point is that
+And thus
+Stenuous
+Exertion
+Fortnight
+Theater
+Rehabilitation
+Apologies
+Stationery
+Overwhelmingly positive
+The sheer cost
+An impractical aspiration
+Intolerably high
+These painful lessons 
+Unaffordable
+Many long-established traditions
+There is a widely-held concern
+A widely-observed impact
+A long-term impact
+A well-known cause
+The ever-rising use
+A less-discussed form
+Rapid timescales
+Squatter
+Derelict
+Overhaul
+Judiciary
+Contend
+Contented period
+30 minute walk
+Illicit actions
+Juvenile delinquency
+Providing state subsidies
+Negative behaviour
+Pressing issue worldwide
+Subsidizing sporting activities
+Compensate for
+Homicide
+Proliferation
+Tentative language
+Pickled cabbage
+Sauerkraut
+Ambiquity
+Ubiquity
+Reconvene
+Convene
+Firstly, adolescents undergo
+Can be addressed
+Shortcoming
+Deficincies 
+Insecurities
+Asserting
+Emotional intelligence
+Empathy
+Classmate
+Alleviates
+Mental health professionals 
+Crucial developmental stages
+Dubious claim
+Puberty-related frustrations
+Guidance
+One way or another
+Atmosphere
+Efficient technique
+Uncomfortable
+Suppressed
+Tangible
+Vertical thinking
+Lateral thinking
+Transferable skills
+Litter
+The advent of obsolescent occupations
+Neoteric
+Tendencies
+Paramount
+Over-familiarity
+Transcend
+Lateral thinking
+Law-abiding citizens
+Unequitable
+Bribery
+Corruption
+Rehabilitation
+Deterrent
+Conviction rate
+Grievance
+Minutiae
+Devious
+Trustworthy police
+Fiance
+Fertile
+Land becomes infertile
+Crop rotation
+Afflict
+Far-flung communities
+Environmental awareness
+Animal husbandry
+Comparatively simple life
+Self-sufficient smallholders
+Subsistence level
+Water bodies
+Wildlife forestry
+Material considerations
+Rural poverty
+The scarcity of schools
+Country dwellers
+Rural depopulation
+Cultural amenities
+Backwater
+Urban sprawl
+Facilities and amenities
+Conurbations
+Freight
+Inner city
+Suburbs
+Amenities
+Synonym
+Hinterland
+Antarctica
+Pea and onion
+Dessert
+Overcrowding
+Petty crime
+Illiteracy
+Social mobility
+Economic prospects
+Pressing matters
+Political instability
+Economic instability
+Demographics
+Livelihood
+Outbreaks of disease
+Existential threats
+Longevity
+Breakfast every morning
+Projected profits
+Monaco
+Multiple championship winner
+Waste
+Absorb
+Interior walls
+Attic
+Proprietary information
+Youth unemployment
+Equestrian course
+Rythmic gymnastic
+Obstructed
+Stem from
+Delinquency
+Undoubted benefits
+Active pursuits
+Figureheads
+Champions
+Ameliorating
+Sponsorship
+Competitive events
+Detoxify
+Sport programmes
+Exercise regimes
+Convenience food
+The strain on eyesight 
+Inadequate development
+Sedentary lifestyle
+Hospitality
+Commemorate
+Linguistic message
+Heritage of legends and folklore
+The fabric of society
+Accessory
+Evoke
+Religious rituals
+As we shall see
+By no means
+Handicraft
+Fine art
+Social memes
+Medieval
+4 5 6 3 2 1
+NR46JF
+Religious observance
+Ceremonies
+Rituals
+Folklore
+Rain forests
+Catastrophe
+Dinosaur extinction
+Animal sanctuaries
+Elephant poaching
+Mediterranean sea
+Impurity
+Waste processing center
+Landfill
+Dumping of waste
+Irrigation
+Drought
+Famine
+Extinction
+Dwindling numbers
+Endangered species 
+Rainwater run-off
+Tainted
+Water table
+Aquifer
+Contamination
+Pollutant participles
+Exhausting journey
+Exhaustive
+Adolescent
+Adolescence
+Marshal facts
+Sift information
+Racoon
+Mosque
+Automobile
+Electric car
+Deter
+Traffic congestion
+Proposal
+Repetition
+Suitable alternatives
+Regardless of fuel cost
+Luxury
+Infeasible
+Impractical
+Mileage
+Until
+Lives
+Penny
+25 pence 
+Departmental address 
+Crisis
+Ubiquitous
+Suffice
+Pedagogical experts
+Tidal wave
+Earthquake
+Volcano
+Volcanoes
+Syllabus
+Base jumping
+Rock climbing
+Skydiving
+Infringe
+Risky pursuits
+Thrill-seeking activities
+Hazardous sports
+Automotive accidents
+Vehicular collision
+To advocate for a ban
+Human psychology craves excitement and stimulation
+Causing severe physical or psychological trauma
+Evolving
+Life-threatening
+Athletes
+Intolerable
+Psychologically
+Profesional
+Speciality
+Website
+M.Sc. Engineering
+Crop yields
+Droughts
+Bureau
+Economics
+Anxiety
+Redundancy
+Predominance
+Another positive development would be
+Financial hardship
+Fraudulant loan
+Student dormitory
+Bullying
+Seagull
+Pigeon
+Sparrow
+Geese
+Skunk
+Moose
+Turkey
+Exorbitant price
+Genuine way
+Conurbation
+Country dweller
+Topical issue
+Burglary
+Theft
+Retail outlets
+Awareness
+Pressurized
+Nutrients
+Cholestrol
+British counsul office
+Postgraduate
+Surcharges
+Faculty
+Definitely
+Counselling
+Legislate
+Insomnia
+Eye strain
+Perhaps the major problem we need to deal with
+Remedy
+Ranging from A to B
+Turning to possible solutions
+Wrangling
+Subsidiary
+Subsidize
+Ransomware
+Reoffend
+Rehabilitate
+Non-custodial
+Offenders
+Juvenile
+Satellite
+Many people's propspects
+Subsidies
+Subsidy
+Disastrous effect
+Airline pilots
+Legislation
+Extensive legislation
 Suffice to say
-Confines
+Confine
 To be wary of this idea
 Nationalities
 Distrust
 Resentment
-Pullution
+Pollution
 Litter
 Unwise viewpoint
 Problems besetting the world
@@ -42,8 +593,6 @@ Borrowing
 Topical debate
 Increasingly popular
 Anti-traffic lobby
-This outweighs their possible disadvantages, as long as they are
-Extinction
 Endangered species
 Breeding programs
 Enthusiast
@@ -58,7 +607,6 @@ Foster
 It is notable
 Competitive spirit
 Furthermore
-On the other hand, furthermore, finally
 Wholesomeness
 Controversial
 Vocation
@@ -96,7 +644,7 @@ Sound-absorbing
 Dissatisfaction
 Annoyance
 Unsatisfactory
-Comlain
+Complain
 Complaint
 Restaurant
 65 million years ago
@@ -139,7 +687,7 @@ Perspective
 Heart attack
 Stroke
 Obesity
-Worthy to persue
+Worthy to pursue
 Patriotism
 Undeniable
 Inclusivity
@@ -185,12 +733,12 @@ Turtle
 Tortoise
 Porcupine
 Woodpecker
-Remostrate
+Remonstrate
 Bollocks
 Bummer
 Proofreading
 Souvenirs
-Wounderful
+Wonderful
 Fountains
 Pudding
 Harassment
@@ -379,7 +927,6 @@ Absolutely
 Undeniably
 Instance
 Incident
-Occurrence
 Every aspect
 The circumstances
 All the facets
@@ -421,7 +968,6 @@ Extremely
 Particularly
 Exceedingly
 Accordingly
-Consequently
 Consequences
 Effects
 In spite of
@@ -569,7 +1115,7 @@ After all
 Yet
 Best Regards
 Best Wishes
-Dear Mr Green
+Dear Mr. Green
 Yours sincerely
 Dear Sir or Madam
 Yours Faithfully
@@ -1041,7 +1587,6 @@ Persistent
 Pose
 Possess
 Preliminary
-Presumption
 Ratio
 Refine
 Relate
@@ -1068,7 +1613,6 @@ Whereby
 Outweigh
 Enduring
 Conscience
-Advantegeous
 Therefore
 Short-term relief
 Experiment
@@ -1077,7 +1621,6 @@ Sustainable growth
 Worsen
 Aggravate
 Exacerbate
-Thus
 Moreover
 Comprehensive
 Inequality
@@ -1144,7 +1687,6 @@ Crescent
 Council
 Campaign
 Pear
-Business
 Caribbean
 Neighbor
 Kindergarten
@@ -1182,7 +1724,6 @@ Intentionally
 Deliberately
 Though
 Thought
-Presumption
 Pretender
 Posture
 Neighbour
@@ -1248,7 +1789,6 @@ Melon
 Occurrence
 Affidavit
 Forfeit
-Legislation
 Counterfeit
 Gorgeous
 Grandiose
