@@ -1,3 +1,20 @@
+Jewellery
+North suburb
+Merry Water World
+Skimming
+Substantial resources 
+Expenditure 
+The Football World Cup
+Environmental Relief Programs
+Mass demonstrations erupted 
+Rival supporters 
+Self-funding 
+No tension or hostility 
+The Olympics 
+The population 
+Competitors and spectators 
+Outbreak of disorder 
+Properly managed 
 International cooperation
 Moral obligations 
 Ex-empire countries 

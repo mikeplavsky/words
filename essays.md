@@ -1,3 +1,10 @@
+People understandably wonder what benefits X bring 
+Arguments can be made to oppose or justify such occasions, as we will see
+Critics of X site Y
+Another objection to X is that 
+In answer to this, enthusiasts for X point out that Y
+Few people would dispute that X, despite Y
+To sum up, I feel that X, provided that Y
 It is often heated debate, the opposing arguments can perhaps be summarized as follows. 
 Proponents of X claim that Y
 This argument is often used to justify X
