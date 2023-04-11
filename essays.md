@@ -1,3 +1,10 @@
+Learning the means to cope with X
+Overall, I feel that X is of great benefit to society, and that discouraging Y would actually be dangerous
+It also answers X
+This is, surely, a minority view, however
+Some on this side of the debate also make te point that
+This perspective suggests X
+People who discount X
 People understandably wonder what benefits X bring 
 Arguments can be made to oppose or justify such occasions, as we will see
 Critics of X site Y

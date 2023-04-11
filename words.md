@@ -1,3 +1,109 @@
+Soothing classical music
+Vegetarian food
+Professor Burt
+Advice 
+Furniture 
+Happiness 
+McDonald 
+Lawrence 
+Allison
+Hannah
+Nicholas 
+Louis
+Australia
+Sydney
+Melbourne 
+Brisbane
+Canberra 
+Edinburgh 
+Glasgow 
+Vancouver 
+Thailand 
+Bangkok 
+Hungary 
+Budapest
+Auckland 
+Portugal 
+Lisbon 
+Spain
+Barcelona
+Buenos Aires 
+Stipend
+The successes and innovatoins of our ancestors
+The conflict which ravaged Europe
+Despite the contrasts between today and the past
+Historical studies in society
+Millenium
+Millennia ago
+The harsh conditions of the working class
+The hardship conditions of long hours and dangerous work
+Uprising
+Insights gained from the analogous scenarious
+No resemblance, even remotely
+The nineteenth century
+Decision-making processes
+Cannot
+Padding
+Genuine content
+A professional person networking with a friend
+Pick your brains about X
+To be in the area
+Self-study books
+To speed up my Italian learning
+A fluent speaker
+Emphasizing
+Asking for a favour
+Kind regards
+To keep my custom
+Anticipated dates
+A courier
+The customer service manager
+Friendly occasion 
+Apologize for being impolite 
+Seriousness 
+Kayak 
+Rafting 
+Alternative activity
+Camping trip
+College assignments 
+Next module of studies 
+Quite annoying 
+Letting you down
+The short notice 
+Arrangements 
+To conclude
+To make up for something
+To show someone around 
+To run late 
+Sympathize 
+Cater to a variety of interests
+Leisure pursuits
+Oblige
+Vouchers
+Personnel
+Substantial inconvenience 
+Toiletries 
+Clothes 
+Personal effects 
+Forgo
+Settle the charge promptly 
+Ultimately compelled
+Brochure
+Precise dates
+Monthly installments
+Admissions
+Apart from that
+Outdoor music venue 
+Live entertaining 
+All in all
+Variety 
+The jet lag
+Eating places 
+An early night 
+An easy walk
+Downtown
+Suburbs 
+Amenities
 Jewellery
 North suburb
 Merry Water World
