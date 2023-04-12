@@ -7,7 +7,7 @@ Looking forward to seeing you on Tuesday
 Here's an idea!
 If I were you, I'd
 Why don't we
-Would you kindly reply to me urgently, with details ox X, as I wish to do Y.
+Would you kindly reply to me urgently, with details of X, as I wish to do Y.
 Could you kindly advise me of the cost of the course?
 So dinner would be my pleasure, and the surroundings would be perfect
 Maybe, I could pick your brains about the subject
