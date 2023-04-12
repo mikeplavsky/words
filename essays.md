@@ -1,5 +1,6 @@
 Undermining the very objective we are trying to achieve 
-Of ccourse, I accept the need to do X, but this should be Y
+Of cc
+Of course, I accept the need to do X, but this should be Y
 In this essay, I will explain why I hold this view
 Learning the means to cope with X
 Overall, I feel that X is of great benefit to society, and that discouraging Y would actually be dangerous
