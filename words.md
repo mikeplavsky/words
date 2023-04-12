@@ -1,3 +1,41 @@
+Discounts, rebates, coupons and bounded deals
+Gradual change
+Versatile
+Planned and phased process
+Counterproductive
+Upheaval
+To the extent of endangering X
+GLobal supply chain and travel
+Internal combustion engine
+Attributable
+Ear tips
+Earbuds
+Commodities 
+Amenities 
+Facilities 
+Darts
+The route is quite scenic
+Chemistry
+Chemist
+Bring about
+By subsidizing their salaries
+Offering tax breaks 
+Living on a welfare 
+Reduce unemployment benefits 
+A positive role model for youngsters 
+Festivals
+A massive following 
+A unified effect on society 
+Fundamental ethos 
+Paradoxically 
+Original significance 
+Preservation
+Apparently self-contradicting 
+Unthinkable intrusion 
+Instantaneous gratification
+Scenic route
+Counsel
+Jewel
 Soothing classical music
 Vegetarian food
 Professor Burt
@@ -607,7 +645,7 @@ Life-threatening
 Athletes
 Intolerable
 Psychologically
-Profesional
+Professional
 Speciality
 Website
 M.Sc. Engineering

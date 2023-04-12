@@ -1,3 +1,6 @@
+Undermining the very objective we are trying to achieve 
+Of ccourse, I accept the need to do X, but this should be Y
+In this essay, I will explain why I hold this view
 Learning the means to cope with X
 Overall, I feel that X is of great benefit to society, and that discouraging Y would actually be dangerous
 It also answers X
@@ -114,7 +117,7 @@ Perhaps, the main cause is X
 I can identify two main causes, and three broad effects, which we will describe now
 Secondly, it is a fact that X, while Y does not offer this security 
 However, if we think of X, Y appears to be a far stronger pathway to progress and independence
-In conclusion, I would not wish to underestimate the potential benifits of X, and it should certainly be available as an option 
+In conclusion, I would not wish to underestimate the potential benefits of X, and it should certainly be available as an option 
 Of course, those who say that X are quite correct, it is equally true, though, that Y
 X cannot genuinely be compared to the benefits of Y
 Finally, it is surely wiser to do x
@@ -205,3 +208,11 @@ This would generate improved X
 Turning to possible alternatives, probably the most effective would be to improve the efficiency of X
 The key solution would be X, together with Y
 In conclusion, the main problems seem to be X and Y
+X often embody important elements of a country’s culture and heritage 
+The debate over X has arguments on both sides 
+X, it is said, would do Y
+Conversely, people who favour X say that Y
+It can also be said that X
+This begs the question of X
+Overall, I feel we should do X
+This means that X, while Y
